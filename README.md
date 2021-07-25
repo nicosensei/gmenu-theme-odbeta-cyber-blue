@@ -3,6 +3,8 @@ A theme for GMenu2x for the OpenDingux Beta firmware. It is mostly edited from t
 
 The original theme can be found here: https://github.com/OpenDingux/gmenu2x-theme, credits go to the original authors.
 
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/).
+
 Below are a couple screenshots of the theme:
 
 ![alt text](https://github.com/nicosensei/gmenu-theme-odbeta-cyber-blue/blob/main/screenshots/screenshot001.png?raw=true)
